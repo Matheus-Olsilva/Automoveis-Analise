@@ -1,7 +1,6 @@
 # Automoveis-Analise
-* Estudando dataset retirado da Kagle sobre automóveis
-Link -> https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset
-* Dicionário de Dados
+* Estudando dataset retirado da Kagle sobre automóveis, Link -> https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset
+> Dicionário de Dados:
 * Name: Identificador único para cada automóvel.
 * MPG: Eficiência de combustível medida em milhas por galão.
 * Cylinders: Número de cilindros no motor.
